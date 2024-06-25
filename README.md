@@ -5,12 +5,12 @@ We created 3 dashboard in this project.
     Finance
 
 **Order Fulfillment Dashboard Question:**
-Total Orders, Total Revenue, Average Revenue, Average Discount Given
-Most Ordered Products
-Trend of no of Sales for Each Day
-Trend of Revenue Generated for each day
-Trend of Revenue Generated for Each Product
-Multiple Views for Online and Offline orders (using Slicers)
+1.Total Orders, Total Revenue, Average Revenue, Average Discount Given/n
+2.Most Ordered Products
+3.Trend of no of Sales for Each Day
+4.Trend of Revenue Generated for each day
+5.Trend of Revenue Generated for Each Product
+6.Multiple Views for Online and Offline orders (using Slicers)
 
 
 **Customer Service Dashboard Questions:**
